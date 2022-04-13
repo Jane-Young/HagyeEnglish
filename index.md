@@ -1,5 +1,7 @@
+# Welcome to "꿀잼영어가이드"
 ## Welcome to GitHub Pages
-
+### 주요 페이지: <https://padlet.com/hagye21/english2>
+### 사용법 잘 읽어보세요.
 You can use the [editor on GitHub](https://github.com/Jane-Young/btsbot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
