@@ -1,12 +1,23 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    
+    <style>
+  df-messenger {
+   --df-messenger-bot-message: #878fac;
+   --df-messenger-button-titlebar-color: #df9b56;
+   --df-messenger-chat-background-color: #fafafa;
+   --df-messenger-font-color: white;
+   --df-messenger-send-icon: #878fac;
+   --df-messenger-user-message: #479b3d;
+  }
+</style>
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
-  chat-title="HagyeMSEnglishGuideBot"
+  intent="WELCOME"
+  chat-title="HagyeEnglish"
   agent-id="303ea0d7-fd38-4f3e-b730-8cf08efb0b31"
   language-code="ko"
+              
 ></df-messenger>
     
     <meta charset='utf-8'>
