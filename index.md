@@ -1,3 +1,6 @@
+    <style>
+      @import url(‘https://fonts.googleapis.com/css?family=Nanum+Gothic+Coding&display=swap&subset=korean’)
+    </style>
 # Welcome to "하계영어가이드"
 ### [영어공지방](padlet.com/hagye21/english2) 
 안녕, 여러분! 하계중학교 2학년 영어 안내 챗봇입니다. 안내 챗봇은 이런 것을 알려줄 수 있어요. <br>
